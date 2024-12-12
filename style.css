@@ -72,7 +72,7 @@ h1{
     margin: 20px;
 }
 .align-items{
-    width: 100%;
+    width: 1400;
     /* height: 500px; */
     display: flex;
     flex-direction: row;
